@@ -1,0 +1,20 @@
+# Arduino Examples
+Examples usage of android and processing and arduino. 
+
+## List of examples
+### Camera Example
+Simple processing example of loading pixels from the camera. (From Mobile Inside Out Workshop by Jonas Jongejan)
+
+### Gamepad Example
+Processing example getting keyDown's on the Xperia play phone, and the keyCodes of the special keys. (From Mobile Inside Out Workshop by Jonas Jongejan)
+
+### GPS Example
+Processing example getting GPS information into processing. (From Mobile Inside Out Workshop by Jonas Jongejan)
+
+### Arduino Communication Example
+Processing example sending and getting data to an arduino over TCP communication via a USB host shield. (From Mobile Inside Out Workshop by Mads Høbye)
+
+### Android Communication Example
+Android sketch showing how to send and receive data on the arduino with an android.  
+
+## Feel free to add more examples!

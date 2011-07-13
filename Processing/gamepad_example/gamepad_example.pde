@@ -1,4 +1,7 @@
-//Example showing the xperia gamepad
+// Example showing the xperia gamepad
+//
+// Jonas Jongejan 13.7.2011
+//
 
 String keyText = "";
 int keyInt = -1; 

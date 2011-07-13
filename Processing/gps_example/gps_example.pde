@@ -1,3 +1,8 @@
+// Getting gps information
+// 
+// Jonas Jongejan 7.13.2011
+//
+
 // Imports
 import android.content.Context;
 import android.location.Location;

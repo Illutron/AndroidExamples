@@ -1,6 +1,7 @@
 /**
 CameraPixelData
 Eric Pavey - 2010-11-15
+Jonas Jongejan - 2011-07-13
 
 Set Sketch Permissions : CAMERA
 Add to AndroidManifest.xml:
